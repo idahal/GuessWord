@@ -1,0 +1,11 @@
+C:\Users\Ida\source\repos\GuessWord\GuessWord\bin\Debug\netcoreapp2.1\GuessWord.deps.json
+C:\Users\Ida\source\repos\GuessWord\GuessWord\bin\Debug\netcoreapp2.1\GuessWord.runtimeconfig.json
+C:\Users\Ida\source\repos\GuessWord\GuessWord\bin\Debug\netcoreapp2.1\GuessWord.runtimeconfig.dev.json
+C:\Users\Ida\source\repos\GuessWord\GuessWord\bin\Debug\netcoreapp2.1\GuessWord.dll
+C:\Users\Ida\source\repos\GuessWord\GuessWord\bin\Debug\netcoreapp2.1\GuessWord.pdb
+C:\Users\Ida\source\repos\GuessWord\GuessWord\obj\Debug\netcoreapp2.1\GuessWord.csprojAssemblyReference.cache
+C:\Users\Ida\source\repos\GuessWord\GuessWord\obj\Debug\netcoreapp2.1\GuessWord.csproj.CoreCompileInputs.cache
+C:\Users\Ida\source\repos\GuessWord\GuessWord\obj\Debug\netcoreapp2.1\GuessWord.AssemblyInfoInputs.cache
+C:\Users\Ida\source\repos\GuessWord\GuessWord\obj\Debug\netcoreapp2.1\GuessWord.AssemblyInfo.cs
+C:\Users\Ida\source\repos\GuessWord\GuessWord\obj\Debug\netcoreapp2.1\GuessWord.dll
+C:\Users\Ida\source\repos\GuessWord\GuessWord\obj\Debug\netcoreapp2.1\GuessWord.pdb
